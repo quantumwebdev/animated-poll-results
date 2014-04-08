@@ -6,10 +6,8 @@ You can use this "as-is" for free in your personal or commercial projects. You c
 
 **Republishing, redistributing or selling "as-is" is forbidden.**
 
-<!--
-Read article on CSS Temple
+[Read article on CSS Temple](http://css-temple.com/lab/animated-poll-results/)
 
-View demo on CSS Temple
--->
+[View demo on CSS Temple](http://css-temple.com/develop/animated-poll-results/)
 
 [&copy; CSS Temple 2014](http://css-temple.com)
