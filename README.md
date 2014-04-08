@@ -1,4 +1,13 @@
-animated-poll-results
-=====================
+# Animated Poll Results #
 
-A very simple and clean animated poll results using just CSS and very light jQuery based script
+A very simple and clean animated poll results using just CSS and very light jQuery based script. HTML structure is very clean and simple, CSS contain just basic definitions and jQuery is also very light and very simple.
+
+You can use this "as-is" for free in your personal or commercial projects. You can change source code, edit it or re-build it for free.
+
+**Republishing, redistributing or selling "as-is" is forbidden.**
+
+[//]: <> (Read article on CSS Temple)
+
+[//]: <> (View demo on CSS Temple)
+
+[&copy; CSS Temple 2014](http://css-temple.com)
