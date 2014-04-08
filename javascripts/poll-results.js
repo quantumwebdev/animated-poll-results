@@ -1,6 +1,5 @@
 $(window).load(function(){
 
-
   $('body').on('click', '.results-trigger', function() {
     $('.poll-vote-list').fadeOut(500);
     $('.poll-results-list').delay(500).fadeIn(500);
